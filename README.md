@@ -4,10 +4,7 @@ Do you know that i am passionate about crafting visually captivating and user-fr
 
 ### Technologies & Tools
 ---
-- Frontend: HTML, CSS, JavaScript, React.js, Next.js, Vite js ..
-- CSS Frameworks: Tailwind CSS, NextUI
-- Version Control: Git
-- Hosting Platforms: Vercel, Netlify, GitHub Pages
+- HTML, CSS, JavaScript, React.js, Next.js, Vite js, Tailwind CSS, NextUI, MaterialUI, Git, Vercel, GitHub Pages
 
 ### Let's Connect!
 ---
