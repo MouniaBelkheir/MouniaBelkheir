@@ -1,19 +1,21 @@
-👋 Welcome to my GitHub profile!
+Hey! Mysterious Visitor, Welcome!
+---
+Do you know that i am passionate about crafting visually captivating and user-friendly websites, I bring my skills as a Frontend Web Developer to the table. My goal is to provide outstanding user experiences. Additionally, my background in education and administration enhances my versatile skill set.
 
-I'm on an exciting journey from the world of Education to mastering Front-End Web Development. 🖥️ Learning is a journey with no final destination, and I'm committed to seizing every opportunity to expand my knowledge and expertise.
-
-In education, I've cultivated dedication and a passion for growth. 📚 Now, as I transition into the tech industry, I'm eager to channel these qualities into crafting exceptional digital experiences. My goal? To leverage my unique blend of experiences to create user-friendly, accessible, and impactful web solutions. 🌐
-
-### 🔧 Technologies & Tools
-- Front-End: HTML, CSS, JavaScript, React.js, Next.js
-- CSS Frameworks: Tailwind CSS, Next.UI
+### Technologies & Tools
+---
+- Frontend: HTML, CSS, JavaScript, React.js, Next.js, Vite js ..
+- CSS Frameworks: Tailwind CSS, NextUI
 - Version Control: Git
 - Hosting Platforms: Vercel, Netlify, GitHub Pages
 
-### 📫 Let's Connect!
+### Let's Connect!
+---
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say "Hi"! 
+I'm always excited to connect with fellow developers and enthusiasts. 
+
 - LinkedIn: [Mounia Belkheir](https://www.linkedin.com/in/mouniabelkheir/)
 - Portfolio: [Mounia Belkheir](https://mouniabelkheir.vercel.app/)
 - Email: mouniabelkheir@outlook.com
 
-
-Feel free to explore my repositories and reach out for collaboration or just to say hello! I'm always excited to connect with fellow developers and enthusiasts. 🚀
+Looking forward to connecting with you soon.
